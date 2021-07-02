@@ -26,3 +26,4 @@ The execution of the pipex program should do the same as the next shell command:
 $> < file1 cmd1 | cmd2 > file2
 ```
 
+Explore more in the pipex.pdf file!!!
