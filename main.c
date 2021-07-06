@@ -42,6 +42,6 @@ int	main(int argc, char **argv)
 			ft_pipe_start(fd, file1, argv[2]);
 		return (0);
 	}
-	ft_putstr_fd("Unknown error occured!!!\n", 1);
+	ft_putstr_fd("The argument count is not five!!!\n", 1);
 	return (-1);
 }
