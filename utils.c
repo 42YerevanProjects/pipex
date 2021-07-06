@@ -66,7 +66,7 @@ static void	ft_exec(char **args, char *cmd)
 		free(newcmd);
 		free(temp);
 		ft_free(path);
-		break ;
+		return ;
 	}
 	ft_putstr_fd("Failed to execute the command!!!\n", 1);
 	exit(0);
