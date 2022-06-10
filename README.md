@@ -58,3 +58,17 @@ important to close every possible file descriptor inside the child process to av
 You can find some links and books below that might be useful during the project. You can find all the books in resources folder. 
 Note that you do not have to read the books completly but you will find a lot of useful information there.
 
+Videos
+
+- [Simulating the pipe "|" operator in C](https://youtu.be/6xbLgZpOBi8)
+- [Unix Processes in C](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+
+Links
+
+- [Reproducing the Pipe Operator “|” in C](https://www.codequoi.com/en/pipex-reproducing-the-pipe-operator-in-c/)
+- [Creating Pipes in C](https://tldp.org/LDP/lpg/node11.html)
+
+## Additional information
+
+This project was far more challeging than I thought it would be, and it was quite hard to understan
+some of the new concepts. But after all that hussle the code itself was rather simple. To know more about the project read the subject file.
