@@ -1,19 +1,18 @@
-# 42_pipex
+# 42 Pipex
 
-This project is the discovery in detail and by programming of a UNIX
-mechanism that you already know.
+This project is the discovery in detail and by programming of a UNIX mechanism that you already know. 
+In this projec't we'll make our own implementation of the pipes we know and love from shell (``|``). 
+To do so, we will start using a whole new set of functions that will introduce to us the concept of multiple 
+processes, using pipes, forks and dups.
 
-This program mimics the following shell command:
+> ⚠️ **Warning**: Don't copy/paste code you don't understand: it's bad for you, and for the school.
 
-```
-< file1 cmd1 | cmd2 > file2
-```
 
-## Objectives 
+## About the project 
 
 This programm is executed in the following way
 
-```
+```shell
 $> ./pipex file1 cmd1 cmd2 file2
 ```
 
