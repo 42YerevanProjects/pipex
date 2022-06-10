@@ -53,7 +53,8 @@ be careful with that.
 2) It is very important to keep in mind that children after a fork will inherit all open file descriptors. For this reason it is very 
 important to close every possible file descriptor inside the child process to avoid these kinds of leaks. Be carefull with them!
 
-Resources
+## Resources
 
 You can find some links and books below that might be useful during the project. You can find all the books in resources folder. 
 Note that you do not have to read the books completly but you will find a lot of useful information there.
+
