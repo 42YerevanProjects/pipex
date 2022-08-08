@@ -5,7 +5,7 @@ In this projec't we'll make our own implementation of the pipes we know and love
 To do so, we will start using a whole new set of functions that will introduce to us the concept of multiple 
 processes, using pipes, forks and dups.
 
-> ⚠️ **Warning**: Don't copy/paste code you don't understand: it's bad for you, and for the school.
+> ⚠ **Warning**: Don't copy/paste code you don't understand: it's bad for you, and for the school.
 
 
 ## About the project 
